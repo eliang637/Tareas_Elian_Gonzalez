@@ -1,0 +1,43 @@
+body{
+    
+    
+    font-family: arial;
+    text-transform: capitalize;
+	background: #d4d1de; 
+
+}
+
+#titulo h1{
+      
+      text-align: center;
+
+}
+
+.color {
+
+	background: black;
+
+
+} 
+
+
+	
+
+#contenido p {
+    
+    text-decoration: underline overline; 
+	front-weight: bold;
+}
+
+#contenido h2 {
+    
+    text-decoration: underline;
+	color: #c40000;
+	front-weight: bold;
+}
+
+#contenido h3 {
+
+	color: #0003c4;
+	front-weight: bold;
+}
