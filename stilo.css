@@ -1,0 +1,36 @@
+
+
+#nombre h2 {
+
+     background: #ffb2b2;
+     text-align:center;
+     text-decoration: underline;
+     font-weight: bold;
+
+} 
+
+#color h4{
+
+      background: #d8eff4;
+      text-transform: capitalize;
+      font-family:FontAwesome;
+
+}
+
+#color  h5{
+
+       background: #f8dafb;
+       text-transform: capitalize;
+       font-family: arial;
+      
+}
+
+
+#color p{ 
+
+     background: #bdffbe;
+	 text-transform: capitalize;
+     font-family:FontAwesome;
+
+
+}
